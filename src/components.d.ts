@@ -25,5 +25,8 @@ declare module 'vue' {
     MessageBoxDemo: typeof import('./components/MessageBoxDemo.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    ToolbarData: typeof import('./components/layouts/toolbar/ToolbarData.vue')['default']
+    ToolbarLogic: typeof import('./components/layouts/toolbar/ToolbarLogic.vue')['default']
+    ToolbarSite: typeof import('./components/layouts/toolbar/ToolbarSite.vue')['default']
   }
 }
