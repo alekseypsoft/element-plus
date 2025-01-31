@@ -3,7 +3,9 @@
 </script>
 
 <template>
-
+<ToolbarSite></ToolbarSite>
+  <ToolbarData></ToolbarData>
+  <ToolbarLogic></ToolbarLogic>
 </template>
 
 <style scoped>
