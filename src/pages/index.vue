@@ -1,4 +1,7 @@
 <template>
-  <Logos my="4" />
-  <HelloWorld msg="Hello Vue 3 + Element Plus + Vite" />
+  <Toolbar></Toolbar>
+  <Status></Status>
+  <Header></Header>
+  <Run></Run>
+  <Actions></Actions>
 </template>
